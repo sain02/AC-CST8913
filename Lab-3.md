@@ -90,6 +90,7 @@ The organization currently runs workloads in an **on-premises data center** with
 - **Email & Productivity:** Move directly to SaaS.  
 - **Networking:** Hybrid VPN/ExpressRoute until fully cloud-based.  
 
+![alt text](<Screenshot 2025-09-27 230041.png>)
 ---
 
 ---
