@@ -92,15 +92,5 @@ The organization currently runs workloads in an **on-premises data center** with
 
 ---
 
-## 6. Risk Register & Checklist
-
-### Risks
-| Risk | Impact | Mitigation |
-|------|--------|------------|
-| Data corruption during migration | High | Backup + Test restores |
-| Downtime for users | Medium | Schedule off-peak, staged cutover |
-| Security misconfiguration | High | Follow shared responsibility, enable IAM & policies |
-| Cost overruns | Medium | Enable budgets & alerts |
-
 ---
 # THANKS
