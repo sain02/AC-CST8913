@@ -132,7 +132,7 @@ Enabling **auto-scaling**, **auto-shutdown**, and **Hybrid Benefits** ensures lo
 ## Tools Used
 - **Azure Pricing Calculator** (Canada Central Region)  
 - **Azure Migrate & Database Migration Service**  
-- **Azure Monitor**, **Azure Cost Management**, **Microsoft Defender for Cloud**
+- **Azure Monitor**, **Azure Cost Management**
 
 ---
 ## THANKS
