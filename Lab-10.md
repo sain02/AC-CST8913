@@ -31,7 +31,7 @@ Because the organization processes highly sensitive medical information across m
 
 - **Identity Security with Azure Entra ID:**  
   - Conditional Access policies requiring MFA  
-  - Sign-in risk analysis and device-compliance checks  
+  - Sign-in risk analysis and device compliance checks  
   - Identity Protection alerts and automated remediation  
 
 This governance approach ensures consistent, controlled, and compliant operations across all workloads.
@@ -111,7 +111,7 @@ CloudMed’s design applies all three foundational Zero Trust principles:
 
 ## 6. Summary and Recommendations
 
-The proposed Azure Landing Zone offers CloudMed a secure and structured foundation for operating healthcare workloads in the cloud. The design incorporates core Zero Trust principles—strong identity verification, least-privilege access controls, and network segmentation—to protect sensitive medical information. By using a Hub-and-Spoke network model, Private Endpoints, RBAC, Azure Policies, and continuous monitoring through Log Analytics and Defender for Cloud, the environment supports compliance with HIPAA, GDPR, and PIPEDA while remaining scalable for future growth.
+The proposed Azure Landing Zone offers CloudMed a secure and structured foundation for operating healthcare workloads in the cloud. The design incorporates core Zero Trust principles strong identity verification, least-privilege access controls, and network segmentation to protect sensitive medical information. By using a Hub-and-Spoke network model, Private Endpoints, RBAC, Azure Policies, and continuous monitoring through Log Analytics and Defender for Cloud, the environment supports compliance with HIPAA, GDPR, and PIPEDA while remaining scalable for future growth.
 
 ### Recommendations for Future Improvement
 
