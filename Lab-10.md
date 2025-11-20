@@ -123,7 +123,7 @@ The proposed Azure Landing Zone offers CloudMed a secure and structured foundati
 
 ## 7. **Conceptual Zero Trust Landing Zone Diagram**
 
-Below is a **Mermaid diagram**, compatible with GitHub rendering:
+Below is a **Mermaid diagram**:
 
 ```mermaid
 flowchart TD
